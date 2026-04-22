@@ -14,6 +14,3 @@ Flask, Python and PostgresSQL for the backend <br>and React, JS and CSS for the 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=daniel-c-silva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=daniel-c-silva&icon=3&color=cyan)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
