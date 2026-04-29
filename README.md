@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 <br>My name is Daniel, or Pankeko if you prefer.<br>I am Software Developer based in Porto, Portugal.<br>My current Stack is focused on:<br>Flask, Python and PostgresSQL for the backend<br>and React, JS and CSS for the frontend.<br>I lived in Toulouse, France where I learnt the language<br>which brings me to a point where I am fluent in:<br>English, Portuguese, French and Spanish (to the same native level)<br><br>I love building, creating, whatever it is the process and the feeling of having<br>made something myself or with others is always what keeps me coding<br><br>Currently diving into C ;
 
 
