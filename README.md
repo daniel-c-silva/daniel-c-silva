@@ -6,54 +6,23 @@ WUSSUP, I'm Daniel! Pankeko if you prefer.<br>I am Software Developer based in P
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pankeko120) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-silva-8177a937b) 
 
 # 💻 Tech Stack:
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 
-<table>
-  <tr>
-    <td style="font-weight: bold; padding-right: 10px; width: 150px; border: none;">Languages</td>
-    <td border="none">
-      <img src="https://jsdelivr.net" width="40" height="40" />
-      <img src="https://jsdelivr.net" width="40" height="40" />
-      <img src="https://jsdelivr.net" width="40" height="40" />
-      <img src="https://jsdelivr.net" width="40" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; padding-right: 10px; border: none;">Frontend</td>
-    <td border="none">
-      <img src="https://jsdelivr.net" width="40" height="40" />
-      <img src="https://jsdelivr.net" width="40" height="40" />
-      <img src="https://jsdelivr.net" width="40" height="40" />
-      <img src="https://jsdelivr.net" width="40" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; padding-right: 10px; border: none;">Backend & DB</td>
-    <td border="none">
-      <img src="https://jsdelivr.net" width="40" height="40" />
-      <img src="https://jsdelivr.net" width="40" height="40" />
-      <img src="https://jsdelivr.net" width="40" height="40" />
-      <img src="https://jsdelivr.net" width="40" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; padding-right: 10px; border: none;">Hardware & Data</td>
-    <td border="none">
-      <img src="https://jsdelivr.net" width="40" height="40" />
-      <img src="https://jsdelivr.net" width="40" height="40" />
-      <img src="https://jsdelivr.net" width="40" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; padding-right: 10px; border: none;">Tools & Platforms</td>
-    <td border="none">
-      <img src="https://jsdelivr.net" width="40" height="40" />
-      <img src="https://jsdelivr.net" width="40" height="40" />
-      <img src="https://jsdelivr.net" width="40" height="40" />
-      <img src="https://jsdelivr.net" width="40" height="40" />
-    </td>
-  </tr>
-</table>
+**Languages:**
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
+**Frontend:**
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
+**Backend & Database:**
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
+**Hardware & Data:**
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
+**Tools & Deployment:**
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
 
 
 # 📊 GitHub Stats:
