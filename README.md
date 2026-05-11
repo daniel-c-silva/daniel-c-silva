@@ -11,29 +11,50 @@ WUSSUP, I'm Daniel! Pankeko if you prefer.<br>I am Software Developer based in P
 <table>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; width: 150px; border: none;">Languages</td>
-    <td border="none"><img src="https://skillicons.dev"/></td>
+    <td border="none">
+      <img src="https://jsdelivr.net" width="40" height="40" />
+      <img src="https://jsdelivr.net" width="40" height="40" />
+      <img src="https://jsdelivr.net" width="40" height="40" />
+      <img src="https://jsdelivr.net" width="40" height="40" />
+    </td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; border: none;">Frontend</td>
-    <td border="none"><img src="https://skillicons.dev"/></td>
+    <td border="none">
+      <img src="https://jsdelivr.net" width="40" height="40" />
+      <img src="https://jsdelivr.net" width="40" height="40" />
+      <img src="https://jsdelivr.net" width="40" height="40" />
+      <img src="https://jsdelivr.net" width="40" height="40" />
+    </td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; border: none;">Backend & DB</td>
-    <td border="none"><img src="https://skillicons.dev"/></td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; padding-right: 10px; border: none;">Deployment & Package</td>
-    <td border="none"><img src="https://skillicons.dev"/></td>
+    <td border="none">
+      <img src="https://jsdelivr.net" width="40" height="40" />
+      <img src="https://jsdelivr.net" width="40" height="40" />
+      <img src="https://jsdelivr.net" width="40" height="40" />
+      <img src="https://jsdelivr.net" width="40" height="40" />
+    </td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; border: none;">Hardware & Data</td>
-    <td border="none"><img src="https://skillicons.dev"/></td>
+    <td border="none">
+      <img src="https://jsdelivr.net" width="40" height="40" />
+      <img src="https://jsdelivr.net" width="40" height="40" />
+      <img src="https://jsdelivr.net" width="40" height="40" />
+    </td>
   </tr>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; border: none;">Design & Version</td>
-    <td border="none"><img src="https://skillicons.dev"/></td>
+    <td style="font-weight: bold; padding-right: 10px; border: none;">Tools & Platforms</td>
+    <td border="none">
+      <img src="https://jsdelivr.net" width="40" height="40" />
+      <img src="https://jsdelivr.net" width="40" height="40" />
+      <img src="https://jsdelivr.net" width="40" height="40" />
+      <img src="https://jsdelivr.net" width="40" height="40" />
+    </td>
   </tr>
 </table>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=daniel-c-silva&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=false)<br/>
