@@ -1,5 +1,5 @@
 # About Me:
-WUSSUP, I'm Daniel! Pankeko if you prefer.<br>I am Software Developer based in Porto, Portugal.<br>My current Stack is focused on:<br>Flask, Python and PostgresSQL for the backend<br>and React, JS and CSS for the frontend.<br><br>I lived in Toulouse, France, for a while<br>which brings me to a point where I am fluent in:<br>English, Portuguese, French and Spanish (to the same native level)<br><br>I love creating, whatever it is the process and the feeling of having<br>made something myself or with others is always what keeps me coding<br><br>Currently working on CLANKA u should check it out.
+WUSSUP, I'm Daniel! Pankeko if you prefer.<br>I am Software Developer based in Porto, Portugal.<br>My current Stack is focused on:<br>Flask, Python and PostgresSQL for the backend<br>and React, JS and CSS for the frontend.<br><br>I lived in Toulouse, France, for a while<br>which brings me to a point where I am fluent in:<br>English, Portuguese, French and Spanish (to the same native level)<br><br>I love creating, whatever it is the process and the feeling of having<br>made something myself or with others is always what keeps me coding<br><br>Currently working on CLANKA u should check it out demo for the software on the rep.
 
 
 ## Socials:
