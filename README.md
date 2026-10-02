@@ -1,3 +1,4 @@
+# Introduction
 Full-stack developer in Porto, Portugal. moslty building web apps with **React** and **Flask**,<br>and hardware projects that mix software with sensors and motors.<br>**Open to junior/mid full-stack roles (on-site in Porto or remote in the EU).**<br>
 
 
