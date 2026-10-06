@@ -12,6 +12,9 @@ Full-stack developer in Porto, Portugal. moslty building web apps with **React**
 ### Backend & Databases
 [![My Skills](https://skillicons.dev/icons?i=flask,postgres,mysql,dotnet)](https://skillicons.dev)
 
+### IDE and OS
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,macos)](https://skillicons.dev)
+
 ### Data & Libraries
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
