@@ -18,11 +18,11 @@ Full-stack developer in Porto, Portugal. moslty building web apps with **React**
 ### DevOps & Deployment
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ### Hardware & Embedded
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
 ### Game Dev
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=daniel-c-silva&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=daniel-c-silva&theme=transparent&hide_border=false)<br/>
