@@ -10,8 +10,7 @@ Full-stack developer in Porto, Portugal. moslty building web apps with **React**
 [![My Skills](https://skillicons.dev/icons?i=react,vite,npm)](https://skillicons.dev)
 
 ### Backend & Databases
-[![My Skills](https://skillicons.dev/icons?i=flask,postgres,mysql,.net)](https://skillicons.dev)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=Flask,postgres,mysql,dotnet)](https://skillicons.dev)
 
 ### Data & Libraries
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
