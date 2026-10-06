@@ -14,6 +14,7 @@ Full-stack developer in Porto, Portugal. moslty building web apps with **React**
 
 ### IDE and OS
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,apple)](https://skillicons.dev)
+##
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,vim)](https://skillicons.dev)
 
 
