@@ -21,8 +21,7 @@ Full-stack developer in Porto, Portugal. moslty building web apps with **React**
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
 ### Game Dev
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-[![My Skills](https://skillicons.dev/icons?i=unity,gamemaker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=daniel-c-silva&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=daniel-c-silva&theme=transparent&hide_border=false)<br/>
