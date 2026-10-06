@@ -4,9 +4,10 @@ Full-stack developer in Porto, Portugal. moslty building web apps with **React**
 
 # Tech Stack:
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=,python,js,c,cpp,cs,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,c,cpp,cs,html,css)](https://skillicons.dev)
 
 ### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,vim,npm)](https://skillicons.dev)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ### Backend & Databases
